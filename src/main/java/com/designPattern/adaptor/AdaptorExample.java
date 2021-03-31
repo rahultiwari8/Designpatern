@@ -18,6 +18,8 @@ public class AdaptorExample {
 
         iphoneCharger.charge(androidtoIphoneAdaptor);
 
+        System.out.println("");
+
 
 
 
