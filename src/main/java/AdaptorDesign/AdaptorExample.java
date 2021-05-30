@@ -17,7 +17,7 @@ public class AdaptorExample {
         AndoidtIphoneCharger andoidtIphoneCharger = new AndoidtIphoneCharger(Oneplus);
 
         andoidtIphoneCharger.iphonecharge();
-        System.out.println("For merge 123");
+        System.out.println("For merge 123 123");
 
 
         }
